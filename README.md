@@ -75,6 +75,24 @@
   <img src="https://img.shields.io/badge/Contributions-262-blueviolet?style=for-the-badge" alt="Contributions Badge"/>
 </div>
 
+## 📊 *PERFORMANCE METRICS*
+
+<div align="center">
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVCHAUHAN2004&theme=radical&hide_border=true"/>
+
+  <br/>
+
+  <!-- ✅ Total Contributions, Commits, Stars -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&theme=radical&hide_border=true" />
+
+  <br/>
+
+  <!-- 🌍 Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&theme=radical&hide_border=true&layout=compact" />
+</div>
+
+
 
 
 
