@@ -72,7 +72,7 @@
   </div>
 
   <br/>
-  <img src="https://img.shields.io/badge/Contributions-262-blueviolet?style=for-the-badge" alt="Contributions Badge"/>
+  <img src="https://img.shields.io/badge/Contributions-190-blueviolet?style=for-the-badge" alt="Contributions Badge"/>
 </div>
 
 
