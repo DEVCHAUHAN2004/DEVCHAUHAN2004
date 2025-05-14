@@ -36,12 +36,11 @@
  |:----:|:---------:|:------------:|
  | 🥇 PRIMARY | HTML5, CSS3, BOOTSTRAP, PYTHON| ██████████ 100% |
  | 🥈 SECONDARY | JavaScript, Jquery | ████████ 80% |
- | 🥉 EMERGING | C, Java, NODE.js | ███████ 90% |
+ | 🥉 EMERGING | C, Express.js, NODE.js | ███████ 90% |
  
  ### 🌐 *Tech Stack Visualization*
  
  ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
  ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) 
@@ -49,6 +48,8 @@
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 
  
