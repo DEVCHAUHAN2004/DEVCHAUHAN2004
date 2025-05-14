@@ -78,31 +78,6 @@
 
 
 
-<!-- GitHub Streak Summary -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVCHAUHAN2004&theme=radical&hide_border=true"/>
-  
-  <br/><br/>
-  <table>
-    <tr>
-      <td align="center">
-        <b style="color:#FF69B4; font-size:24px;">262</b><br/>
-        <span style="color:#00FFFF;">Total Contributions</span><br/>
-        <span>May 14 – Present</span>
-      </td>
-      <td align="center">
-        <b style="color:#FFD700; font-size:24px;">41</b><br/>
-        <span style="color:#FFD700;">Current Streak</span><br/>
-        <span>April 4 – May 14</span>
-      </td>
-      <td align="center">
-        <b style="color:#FF69B4; font-size:24px;">41</b><br/>
-        <span style="color:#FF69B4;">Longest Streak</span><br/>
-        <span>April 4 – May 14</span>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
