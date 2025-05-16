@@ -18,6 +18,12 @@
  ## 💡 *MISSION STATEMENT*
  
  > "Code is not just syntax, it's a canvas of innovation. Each line is a brushstroke of potential waiting to transform the world."
+
+> "Programming is the closest thing we have to magic — a few symbols, and entire worlds come to life."
+
+> "Code is the architect’s blueprint of the digital age — shaping realities, not just applications."
+
+> "Each function is a verse, each algorithm a rhythm — code is poetry written in logic."
  
  ---
  
