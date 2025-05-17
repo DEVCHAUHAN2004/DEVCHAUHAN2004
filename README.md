@@ -43,7 +43,7 @@
 | :----------: | :-------------------------------: | :-------------: |
 |  🥇 PRIMARY  | HTML5, CSS3, BOOTSTRAP, PYTHON, C | ██████████ 100% |
 | 🥈 SECONDARY |         JavaScript, Jquery        |  █████████ 90%  |
-|  🥉 EMERGING |        Express.js, NODE.js        |   ███████ 90%   |
+|  🥉 EMERGING |        Express.js, NODE.js        |   ███████ 70%   |
 
  ### 🌐 *Tech Stack Visualization*
  
