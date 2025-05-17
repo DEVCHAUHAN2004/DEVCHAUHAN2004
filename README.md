@@ -38,12 +38,13 @@
  ### 🛠 *Technology Ecosystem*
  
  #### Programming Languages Mastery
- | Tier | Languages | Proficiency |
- |:----:|:---------:|:------------:|
- | 🥇 PRIMARY | HTML5, CSS3, BOOTSTRAP, PYTHON| ██████████ 100% |
- | 🥈 SECONDARY | JavaScript, Jquery | ████████ 80% |
- | 🥉 EMERGING | C, Express.js, NODE.js | ███████ 90% |
- 
+
+ |     Tier     |             Languages             |   Proficiency   |
+| :----------: | :-------------------------------: | :-------------: |
+|  🥇 PRIMARY  | HTML5, CSS3, BOOTSTRAP, PYTHON, C | ██████████ 100% |
+| 🥈 SECONDARY |         JavaScript, Jquery        |  █████████ 90%  |
+|  🥉 EMERGING |        Express.js, NODE.js        |   ███████ 90%   |
+
  ### 🌐 *Tech Stack Visualization*
  
  ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
