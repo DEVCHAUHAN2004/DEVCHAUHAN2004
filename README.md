@@ -1,13 +1,3 @@
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DevChauhan001&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=DevChauhan001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-
-</div>
-
 
 
 
@@ -164,6 +154,16 @@
  ### 📢 *DISCLAIMER*
  This profile is a dynamic representation of my professional journey. Content subject to continuous evolution and innovation.
 
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DevChauhan001&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DevChauhan001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+
+</div>
 
 
 
