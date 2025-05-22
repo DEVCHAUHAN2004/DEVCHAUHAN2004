@@ -156,16 +156,4 @@
 
 
 
- 📊 GitHub Stats (Auto-Updated Daily)
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=DevChauhan001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-
-  <br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DevChauhan001&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="80%" />
-
-</div>
