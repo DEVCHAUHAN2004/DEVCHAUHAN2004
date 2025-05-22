@@ -1,3 +1,17 @@
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DevChauhan001&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DevChauhan001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+
+</div>
+
+
+
+
+
 ![head](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 <p align="center">
