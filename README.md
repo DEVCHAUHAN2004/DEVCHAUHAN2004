@@ -149,3 +149,17 @@
  
  ### 📢 *DISCLAIMER*
  This profile is a dynamic representation of my professional journey. Content subject to continuous evolution and innovation.
+
+
+
+
+
+
+
+ <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushichauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=Khushichauhan001&theme=radical&hide_border=false)
+  
+</div>
