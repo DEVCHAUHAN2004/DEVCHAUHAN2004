@@ -47,9 +47,10 @@
 
  |     Tier     |             Languages             |   Proficiency   |
 | :----------: | :-------------------------------: | :-------------: |
-|  🥇 PRIMARY  | HTML5, CSS3, BOOTSTRAP, PYTHON, C | ██████████ 100% |
+|  🥇 PRIMARY  | HTML5, CSS3, BOOTSTRAP, PYTHON, C, GIT, GITHUB | ██████████ 100% |
 | 🥈 SECONDARY |         JavaScript, Jquery        |  █████████ 90%  |
-|  🥉 EMERGING |        Express.js, NODE.js        |   ███████ 70%   |
+|  🥉 EMERGING | Express.js, Node.js, Embedded.js | █████████ 80% | 
+
 
  ### 🌐 *Tech Stack Visualization*
  
@@ -63,6 +64,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
