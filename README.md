@@ -95,16 +95,6 @@
 </div>
 
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="50%"/>
-
-<!-- Git and GitHub Badges -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 
 
