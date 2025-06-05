@@ -24,13 +24,6 @@
  ## 💡 *MISSION STATEMENT*
  
  > "Code is not just syntax, it's a canvas of innovation. Each line is a brushstroke of potential waiting to transform the world."
-
-> "Programming is the closest thing we have to magic — a few symbols, and entire worlds come to life."
-
-> "Code is the architect’s blueprint of the digital age — shaping realities, not just applications."
-
-> "Each function is a verse, each algorithm a rhythm — code is poetry written in logic."
- 
  ---
  
  ## 🔬 *PROFESSIONAL ARSENAL*
@@ -66,6 +59,8 @@
 ![EJS](https://img.shields.io/badge/-EJS-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![API}(https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
@@ -91,7 +86,7 @@
   </div>
 
   <br/>
-  <img src="https://img.shields.io/badge/Contributions-262-blueviolet?style=for-the-badge" alt="Contributions Badge"/>
+  
 </div>
 
 
