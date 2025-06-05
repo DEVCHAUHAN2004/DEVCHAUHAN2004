@@ -59,7 +59,8 @@
 ![EJS](https://img.shields.io/badge/-EJS-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![API](https://img.shields.io/badge/-API-0A66C2?style=for-the-badge&logo=api&logoColor=white)
+![API](https://img.shields.io/badge/-API-FF0000?style=for-the-badge&logo=api&logoColor=white)
+
 
 
 
