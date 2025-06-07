@@ -10,7 +10,7 @@
  
  # 🚀 DEV CHAUHAN 
  
- ## <p align="center">📰 TECH INSIGHTS & LEARNING FULL STACK DEVELOPER(FRONTEND DEVELOPER)</p>
+ ## <p align="center">📰 DATA SCIENCE & LEARNING FULL STACK DEVELOPEMENT</p>
  
  ---
  
@@ -41,7 +41,7 @@
  |     Tier     |             Languages             |   Proficiency   |
 | :----------: | :-------------------------------: | :-------------: |
 |  🥇 PRIMARY  | HTML5, CSS3, BOOTSTRAP, PYTHON, C, GIT, GITHUB | ██████████ 100% |
-| 🥈 SECONDARY |         JavaScript, Jquery        |  █████████ 90%  |
+| 🥈 SECONDARY |         JavaScript, Jquery , API       |  █████████ 90%  |
 |  🥉 EMERGING | Express.js, Node.js, Embedded.js | █████████ 80% | 
 
 
