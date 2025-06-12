@@ -115,24 +115,24 @@
  
  ---
  
- ## 🌐 *GLOBAL CONNECTIVITY*
- 
- ### 📡 *Professional Networks*
- 
- <div align="center">
-   <a href="https://www.linkedin.com/in/dev-chauhan-422420329/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
- 
-   <a href="https://www.instagram.com/devchauhan.160820/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-Personal_Insights-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-   </a>
- 
-   <a href="devil6591a@gmail.com">
-     <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-   </a>
- </div>
- 
+## 🌐 *GLOBAL CONNECTIVITY*
+
+### 📡 *Professional Networks*
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dev-chauhan-422420329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/devchauhan.160820/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Stories-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:devil6591a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Write_to_me-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
  ---
  
  ## 💌 *QUICK CONTACT DIGEST*
