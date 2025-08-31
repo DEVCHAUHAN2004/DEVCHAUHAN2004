@@ -8,13 +8,13 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
  </p>
  
- # 🚀 DEV CHAUHAN (DEVIL)
+ # 🚀 DEV CHAUHAN
  
- ## <p align="center">📰 DATA SCIENCE & LEARNING FULL STACK DEVELOPEMENT</p>
+ ## <p align="center">📰 Data Analyst , Data Science & LEARNING FULL STACK DEVELOPEMENT</p>
  
  ---
  
- ### 🌟 HEADLINE: Aspiring Full Stack Developer Building the Web of Tomorrow and Leaning DATA SCIENCE and PYTHON FRAMEWORKS
+ ### 🌟 HEADLINE: Aspiring Full Stack Developer Building the Web of Tomorrow and Leaning DATA SCIENCE and PYTHON AND JAVASCRIPT FRAMEWORKS
  
  #### 📍 *Location*: Greater Noida, India
  #### 🕒 *Career Stage*: Emerging Tech Innovator
