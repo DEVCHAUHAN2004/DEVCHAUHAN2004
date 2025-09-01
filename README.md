@@ -10,15 +10,18 @@
  
  # 🚀 DEV CHAUHAN
  
- ## <p align="center">📰 Data Analyst , Data Science & LEARNING FULL STACK DEVELOPEMENT</p>
+ ## <p align="center">📰 Data Analyst , Data Science, Want to learn Ethical Hacking & LEARNING FULL STACK DEVELOPEMENT</p>
  
  ---
  
  ### 🌟 HEADLINE: Aspiring Full Stack Developer Building the Web of Tomorrow and Leaning DATA SCIENCE and PYTHON AND JAVASCRIPT FRAMEWORKS
- 
- #### 📍 *Location*: Greater Noida, India
- #### 🕒 *Career Stage*: Emerging Tech Innovator
- 
+📍 Location: Greater Noida, India
+
+🕒 Career Stage: Emerging Tech Innovator 🚀
+
+🌱 Focus: Building expertise in AI, Data Science & Full-Stack Development
+
+💡 Edge: Passion for solving real-world problems with innovative tech solutions
  ---
  
  ## 💡 *MISSION STATEMENT*
