@@ -110,19 +110,17 @@
  ---
  
  ## 🔍 *CURRENT LEARNING TRAJECTORY*
- 
-🎯 Focus Areas
+ 🎯 Focus Areas
 
 ✅ Deep Dive into Python
 
-✅ Full Stack Development
+✅ FULL STACK DEVELOPMENT
 
-✅ Data Science in Python
+✅ DATA SCIENCE IN PYTHON
 
-✅ Data Analytics
+✅ DATA ANALYTICS
 
-✅ Ethical Hacking
- ---
+✅ ETHICAL HACKING
  
 ## 🌐 *GLOBAL CONNECTIVITY*
 
