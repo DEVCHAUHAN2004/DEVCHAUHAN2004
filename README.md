@@ -10,7 +10,7 @@
  
  # 🚀 DEV CHAUHAN
  
- ## <p align="center">📰 Data Analyst , Data Science, Want to learn Ethical Hacking & LEARNING FULL STACK DEVELOPEMENT</p>
+ ## <p align="center">📰 Data Analyst , Data Science & LEARNING FULL STACK DEVELOPEMENT</p>
  
  ---
  
