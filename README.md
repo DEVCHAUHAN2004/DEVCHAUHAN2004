@@ -10,7 +10,7 @@
  
  # 🚀 DEV CHAUHAN
  
- ## <p align="center">📰 Data Analyst , Data Science & LEARNING FULL STACK DEVELOPEMENT</p>
+ ## <p align="center">📰 Data Analyst,Data Science & LEARNING FULL STACK DEVELOPEMENT</p>
  
  ---
  
@@ -19,7 +19,7 @@
 
 🕒 Career Stage: Emerging Tech Innovator 🚀
 
-🌱 Focus: Building expertise in AI, Data Science & Full-Stack Development
+🌱 Focus: Building expertise in Data Analyst, Data Science & Full-Stack Development
 
 💡 Edge: Passion for solving real-world problems with innovative tech solutions
  ---
