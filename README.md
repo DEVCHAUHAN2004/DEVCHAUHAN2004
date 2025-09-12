@@ -119,7 +119,8 @@
 
 - 📧 **Professional Email**: devil6591a@gmail.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/dev-chauhan-422420329](https://www.linkedin.com/in/dev-chauhan-422420329/)  
-- 📸 **Instagram**: [instagram.com/devchauhan.160820](https://www.instagram.com/devchauhan.160820/)  
+- 📸 **Instagram**: [instagram.com/devchauhan.160820](https://www.instagram.com/devchauhan.160820/)
+- LEETCODE
 
 ---
 
