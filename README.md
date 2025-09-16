@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-API-FF0000?style=for-the-badge&logo=api&logoColor=white"/>
   
+  
 </p>
 
 ---
@@ -96,6 +97,7 @@
 ✅ DATA SCIENCE IN PYTHON  
 ✅ DATA ANALYTICS IN PYTHON 
 ✅ ETHICAL HACKING OR CYBER SECURITY
+
 
 ---
 
