@@ -22,7 +22,7 @@
 ## 💡 *MISSION STATEMENT*
 > "Code is not just syntax, it's a canvas of innovation. Each line is a brushstroke of potential waiting to transform the world."
 
----
+----
 
 ## 🔬 *PROFESSIONAL ARSENAL*
 
