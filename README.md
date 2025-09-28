@@ -30,7 +30,7 @@
 - *DATA SCIENCE Engineering*
 - *Multi-Language Programming*
 - *Full Stack Development*
-- *Data Science Fundamentals in Python*
+- *Data Science Fundamentals in Python**
 
 ### 🛠 *Technology Ecosystem*
 
