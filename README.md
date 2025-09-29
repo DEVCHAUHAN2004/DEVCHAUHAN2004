@@ -116,7 +116,7 @@
 
 ---
 
-## 💌 *QUICK CONTACT DIGEST*
+## 💌 **QUICK CONTACT DIGEST**
 
 - 📧 **Professional Email**: devil6591a@gmail.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/dev-chauhan-422420329](https://www.linkedin.com/in/dev-chauhan-422420329/)  
