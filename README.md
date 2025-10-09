@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
-</p>
+</p>   
 # 🚀 DEV CHAUHAN      
         
 
