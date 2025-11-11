@@ -7,7 +7,7 @@
  
 ## <p align="center">📰 Data Analyst, Data Science & LEARNING FULL STACK DEVELOPMENT or DSA  PYTHON</p>
 
----
+---   
 
 ### 🌟 HEADLINE
 > Aspiring Full Stack Developer Building the Web of Tomorrow and Learning DATA SCIENCE and PYTHON AND JAVASCRIPT FRAMEWORKS  
