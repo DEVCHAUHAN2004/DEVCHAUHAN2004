@@ -1,5 +1,4 @@
 ![head](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-   v 
 <p align="center">          
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
 </p>       
