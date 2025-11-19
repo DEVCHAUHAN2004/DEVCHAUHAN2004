@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
 </p>        
 # 🚀 DEV CHAUHAN           
-  
+   
 ## <p align="center">📰 Data Analyst, Data Science & LEARNING FULL STACK DEVELOPMENT or DSA  PYTHON</p>    
  
 ---    
