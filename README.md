@@ -4,7 +4,7 @@
 </p>         
 # 🚀 DEV CHAUHAN             
      
-## <p align="center">📰 Data Analyst & LEARNING FULL STACK DEVELOPMENT or DSA IN PYTHON</p>    
+## <p align="center">📰 Data Analyst & LEARNING FULL STACK DEVELOPMENT or DSA IN PYTHON</p>     
    
 ---    
  
