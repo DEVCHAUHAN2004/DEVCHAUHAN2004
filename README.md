@@ -2,52 +2,10 @@
 
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
 
-###
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react-dark" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-</picture>
-</div>
 
-<!-- Detailed Skill Badges -->
-
-<div align="center">
-
-<!-- Programming Languages -->
-
-<img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <br/>
 
-<!-- Frontend -->
-
-<img src="https://img.shields.io/badge/CSS3-%2338A1D1.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-<br/>
-
-<!-- Backend -->
-
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-EJS-8A2BE2?style=for-the-badge"/>
-<br/>
-
-<!-- Tools -->
-
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-API-FF0000?style=for-the-badge&logo=api&logoColor=white"/>
-
-</div>
-
-###
 
 <div align="center">
   <a href="#" target="blank">
