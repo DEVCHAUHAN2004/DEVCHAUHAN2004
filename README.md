@@ -1,3 +1,47 @@
+
+
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)
+
+<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=python,c,java,javascript,html,css,bootstrap,nodejs,express,mysql,mongodb,git,github&perline=12&theme=dark' />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=python,c,java,javascript,html,css,bootstrap,nodejs,express,mysql,mongodb,git,github&perline=12&theme=light' />
+    <img src='https://skillicons.dev/icons?i=python,c,java,javascript,html,css,bootstrap,nodejs,express,mysql,mongodb,git,github&perline=12' alt="tech stack" />
+  </picture>
+</div>
+
+###
+
+<div align="center">
+
+  <!-- GitHub Contribution Graph (Auto Light/Dark Theme) -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react-dark&area=true&hide_border=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react&area=true&hide_border=true" 
+    />
+    <img 
+      width="100%" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react&area=true&hide_border=true" 
+      alt="GitHub Contribution Graph of Dev Chauhan" 
+    />
+  </picture>
+
+</div>
+
+
+
+
+
+
 ![head](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif) 
 <p align="center">           
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
