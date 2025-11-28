@@ -7,42 +7,6 @@
 <br/>
 
 
-<div align="center">
-  <a href="#" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="Codepen logo"  />
-  </a>
-  <a href="https://devchauhan.vercel.app" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=4B0082&logoColor=white&style=for-the-badge" height="25" alt="Portfolio logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DEVCHAUHAN&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <img src="https://pacman.abozanona.me?username=DEVCHAUHAN" />
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEVCHAUHAN&label=Profile%20views&color=0e75b6&style=flat" alt="Dev Chauhan" /><br>
-</div>
 
 
 
