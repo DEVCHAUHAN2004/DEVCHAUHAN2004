@@ -1,11 +1,3 @@
-
-
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)
-
-<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
-
-###
-
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)
 
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
@@ -94,28 +86,6 @@
   <img src="https://komarev.com/ghpvc/?username=DEVCHAUHAN&label=Profile%20views&color=0e75b6&style=flat" alt="Dev Chauhan" /><br>
 </div>
 
-###
-
-<div align="center">
-
-  <!-- GitHub Contribution Graph (Auto Light/Dark Theme) -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react-dark&area=true&hide_border=true" 
-    />
-    <source 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react&area=true&hide_border=true" 
-    />
-    <img 
-      width="100%" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DEVCHAUHAN2004&theme=react&area=true&hide_border=true" 
-      alt="GitHub Contribution Graph of Dev Chauhan" 
-    />
-  </picture>
-
-</div>
 
 
 
