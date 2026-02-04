@@ -1,10 +1,13 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)  
          
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>                     
+
                            
                     
            
-<br/>     
+<br/>   
+<img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 ![head](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
