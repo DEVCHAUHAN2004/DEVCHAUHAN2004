@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)   
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ea8e7c8-83c1-434c-a44a-3f044106097d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge](https://images.credly.com/size/150x150/images/XXXXXXXXX.png)](https://www.credly.com/badges/1ea8e7c8-83c1-434c-a44a-3f044106097d)
             
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>                                     
                             
