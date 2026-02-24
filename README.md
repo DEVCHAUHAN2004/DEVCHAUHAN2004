@@ -2,7 +2,10 @@
 
 [![Credly Badge](https://images.credly.com/size/150x150/images/XXXXXXXXX.png)](https://www.credly.com/badges/1ea8e7c8-83c1-434c-a44a-3f044106097d)
             
-<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>                                     
+<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>       
+
+<img width="680" height="680" alt="image data analyst" src="https://github.com/user-attachments/assets/fd272231-1a22-48b6-a847-dd5fc7a625b2" />
+
                             
                                 
                       
