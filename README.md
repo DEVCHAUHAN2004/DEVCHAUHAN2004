@@ -100,24 +100,21 @@
 ---
    
 ## 📊 *PERFORMANCE METRICS*
-
 <div align="center">
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=DEVCHAUHAN2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+  <!-- Main Stats -->
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&icon_color=FF4C60&border_color=8A2BE2"/>
 
   <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVCHAUHAN2004&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FF3131&currStreakLabel=00BFFF" />
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=DEVCHAUHAN2004&theme=transparent&background=0D1117&ring=8A2BE2&fire=FF4C60&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=FFFFFF&dates=AAAAAA&border=8A2BE2"/>
 
   <br/><br/>
 
   <!-- Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00BFFF" />
+  <img width="40%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&layout=compact&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&border_color=8A2BE2"/>
 
 </div>
 
