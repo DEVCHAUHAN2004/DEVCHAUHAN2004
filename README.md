@@ -102,9 +102,23 @@
 ## 📊 *PERFORMANCE METRICS*
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVCHAUHAN2004&theme=radical&hide_border=true"/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=DEVCHAUHAN2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+
+  <!-- Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVCHAUHAN2004&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FF3131&currStreakLabel=00BFFF" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00BFFF" />
+
 </div>
 
 ---
