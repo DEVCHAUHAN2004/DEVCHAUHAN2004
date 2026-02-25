@@ -69,34 +69,31 @@
 <p align="center">
   
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Basic%20Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/-HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/-Objective--C-0D0D0D?style=for-the-badge&logo=apple&logoColor=3A95E3"/>
+  <img src="https://img.shields.io/badge/-Basic%20Java-101010?style=for-the-badge&logo=java&logoColor=FF4C4C"/>
   
   <!-- Frontend -->
   <br/>
-  <img src="https://img.shields.io/badge/CSS3-%2338A1D1.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-0F0F0F?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-141414?style=for-the-badge&logo=bootstrap&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/-jQuery-121212?style=for-the-badge&logo=jquery&logoColor=00BFFF"/>
   
   <!-- Backend -->
   <br/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-EJS-8A2BE2?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-0B0B0B?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-EJS-111111?style=for-the-badge&logo=ejs&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/-C-1B1F23?style=for-the-badge&logo=c&logoColor=00BFFF"/>
   
   <!-- Tools -->
   <br/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-API-FF0000?style=for-the-badge&logo=api&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/-Git-0F0F0F?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-API-141414?style=for-the-badge&logo=fastapi&logoColor=FF1744"/>
   
 </p>
 
