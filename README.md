@@ -6,7 +6,7 @@
  
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/fd272231-1a22-48b6-a847-dd5fc7a625b2" 
-       alt="Data Analyst Dev" 
+       alt="Data Analyst Dev"  
        width="300"/>
 </p> -->
 
