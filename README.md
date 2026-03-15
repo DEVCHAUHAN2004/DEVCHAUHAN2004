@@ -59,7 +59,7 @@
 |     Tier     |             Languages             |   Proficiency   |
 | :----------: | :-------------------------------: | :-------------: |
 | 🥇 PRIMARY   | HTML5, CSS3, BOOTSTRAP, PYTHON, C, GIT, GITHUB, SQL(ADVANCED) | ██████████ 100% ||
-| 🥈 SECONDARY | JavaScript, Jquery, API           | █████████ 90%   ||
+| 🥈 SECONDARY | JavaScript, Jquery, API            | █████████ 90%   ||
 | 🥉 EMERGING  | Express.js, Node.js, Embedded.js, Java | ███████ 50% ||
 
 ---
