@@ -101,18 +101,6 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
 
 </p>
-### 📚 *Python & Data Analytics Libraries*
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/-NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Seaborn-4C9ED9?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
-
-</p>
 
 
 ---
@@ -121,13 +109,24 @@
 
 <div align="center">
 
-<img width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&icon_color=FF4C60&border_color=8A2BE2"/>
+  <!-- GitHub Stats -->
 
 <img width="48%" 
-    src="https://streak-stats.demolab.com?user=DEVCHAUHAN2004&theme=transparent&background=0D1117&ring=8A2BE2&fire=FF4C60&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=FFFFFF&dates=AAAAAA&border=8A2BE2"/>
+   src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
+
+  <!-- GitHub Streak -->
+
+<img width="48%" 
+   src="https://streak-stats.demolab.com?user=DEVCHAUHAN2004&theme=transparent&background=0D1117&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"/>
 
 <br/><br/>
+
+  <!-- Top Languages -->
+
+<img width="42%"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
 
 <img width="40%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&layout=compact&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&border_color=8A2BE2"/>
