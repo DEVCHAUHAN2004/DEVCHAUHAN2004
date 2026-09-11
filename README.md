@@ -1,122 +1,120 @@
- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)   
-    
-<!--[![Credly Badge](https://images.credly.com/size/150x150/images/XXXXXXXXX.png)](https://www.credly.com/badges/1ea 8e7c  8 -83c1-43 4c-a44a- 3f04410609 7d)-->  
-                                   
-<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>                                   
- 
-                             
-<!-- <p align="center">       
-  
-  <img src="https://github.com/user-attachments/assets/fd272231-1a22-48b6-a847-dd5fc7a625b2" 
-       alt="Data Analyst Dev"  
-       width="300"/>
-</p> --> 
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)
 
-                             
-                                
-                       
-            
-<br/>   
-<img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+<h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
 
-
-![head](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-
-<p align="center">           
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
-</p>        
-# 🚀 DEV CHAUHAN               
-     
-## <p align="center">📰 Data Analyst & LEARNING FULL STACK DEVELOPMENT or DSA IN PYTHON</p>     
-   
----    
- 
-### 🌟 HEADLINE
-> Aspiring Full Stack Developer Building the Web of Tomorrow and Learning DATA SCIENCE and PYTHON AND JAVASCRIPT FRAMEWORKS  
+</p>
 
-📍 **Location:** Greater Noida, India              
-🕒 **Career Stage:** Emerging Tech Innovator 🚀  
-🌱 **Focus:** Data Analyst, Data Science & Full-Stack Development  
-💡 **Edge:** Passion for solving real-world problems with innovative tech solutions  
+# 🚀 DEV CHAUHAN
+
+## <p align="center">📊 Aspiring Data Analyst | 🐍 Python | 🗄️ SQL | 📊 Power BI | 📈 Tableau</p>
+
+---
+
+### 🌟 HEADLINE
+
+> Aspiring Data Analyst passionate about transforming data into meaningful insights using Python, SQL, Power BI, Tableau, Excel, Statistics, and Machine Learning.
+
+📍 **Location:** Greater Noida, India
+🕒 **Career Stage:** Aspiring Data Analyst 🚀
+🌱 **Focus:** Data Analytics, Data Science & Machine Learning
+💡 **Edge:** Turning raw data into actionable business insights through analysis and visualization
 
 ---
 
 ## 💡 *MISSION STATEMENT*
-> "Code is not just syntax, it's a canvas of innovation. Each line is a brushstroke of potential waiting to transform the world."
 
-----
+> "Turning data into insights, insights into decisions, and decisions into meaningful solutions."
+
+---
 
 ## 🔬 *PROFESSIONAL ARSENAL*
 
 ### 🏆 *Core Competencies*
-- *DATA SCIENCE Engineering*
-- *Multi-Language Programming*
-- *Full Stack Development*
-- *Data Science Fundamentals in Python**
+
+* *Data Analytics & Exploratory Data Analysis*
+* *Data Cleaning & Data Preprocessing*
+* *SQL & Database Analysis*
+* *Data Visualization & Business Intelligence*
+* *Statistical Analysis*
+* *Machine Learning Fundamentals*
 
 ### 🛠 *Technology Ecosystem*
 
-#### Programming Languages Mastery
+#### Programming Languages
 
-|     Tier     |             Languages             |   Proficiency   |
-| :----------: | :-------------------------------: | :-------------: |
-| 🥇 PRIMARY   | HTML5, CSS3, BOOTSTRAP, PYTHON, C, GIT, GITHUB, SQL(ADVANCED) | ██████████ 100% ||
-| 🥈 SECONDARY | JavaScript, Jquery, API            | █████████ 90%   ||
-| 🥉 EMERGING  | Express.js, Node.js, Embedded.js, Java | ███████ 50% ||
+|      Tier     |                    Languages                   |   Proficiency   |
+| :-----------: | :--------------------------------------------: | :-------------: |
+|   🥇 PRIMARY  |           Python, SQL, C, HTML5, CSS3          | ██████████ 100% |
+|  🥈 SECONDARY |                   JavaScript                   |  █████████ 90%  |
+| 🥉 DEVELOPING | Data Structures & Algorithms, Machine Learning |   ███████ 70%   |
 
 ---
-   
-### 🌐 *Tech Stack Visualization*
- 
+
+### 📚 *Data Analytics & Python Ecosystem*
+
 <p align="center">
-  
-  <!-- Programming Languages -->
+
+  <!-- Python & Data Science -->
+
   <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/-NumPy-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+  <img src="https://img.shields.io/badge/-Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-111111?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Seaborn-111111?style=for-the-badge&logo=python&logoColor=4FC3F7"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+
+  <br/>
+
+  <!-- SQL & Databases -->
+
+  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+
+  <br/>
+
+  <!-- BI & Visualization -->
+
+  <img src="https://img.shields.io/badge/-Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/-Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/-Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+
+  <br/>
+
+  <!-- Web Technologies -->
+
   <img src="https://img.shields.io/badge/-HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/-Objective--C-0D0D0D?style=for-the-badge&logo=apple&logoColor=3A95E3"/>
-  <img src="https://img.shields.io/badge/-Basic%20Java-101010?style=for-the-badge&logo=java&logoColor=FF4C4C"/>
-  
-  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
   <br/>
-  <img src="https://img.shields.io/badge/-CSS3-0F0F0F?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-141414?style=for-the-badge&logo=bootstrap&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/-jQuery-121212?style=for-the-badge&logo=jquery&logoColor=00BFFF"/>
-  
-  <!-- Backend -->
-  <br/>
-  <img src="https://img.shields.io/badge/-Node.js-0B0B0B?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-EJS-111111?style=for-the-badge&logo=ejs&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/-C-1B1F23?style=for-the-badge&logo=c&logoColor=00BFFF"/>
-  
+
   <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/-Git-0F0F0F?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-API-141414?style=for-the-badge&logo=fastapi&logoColor=FF1744"/>
-  
+
+  <img src="https://img.shields.io/badge/-Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/-Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
 </p>
 
 ---
-   
+
 ## 📊 *PERFORMANCE METRICS*
+
 <div align="center">
 
-  <!-- Main Stats -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&icon_color=FF4C60&border_color=8A2BE2"/>
+<img width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=DEVCHAUHAN2004&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&icon_color=FF4C60&border_color=8A2BE2"/>
 
-  <!-- Streak Stats -->
-  <img width="48%" 
-       src="https://streak-stats.demolab.com?user=DEVCHAUHAN2004&theme=transparent&background=0D1117&ring=8A2BE2&fire=FF4C60&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=FFFFFF&dates=AAAAAA&border=8A2BE2"/>
+<img width="48%" 
+    src="https://streak-stats.demolab.com?user=DEVCHAUHAN2004&theme=transparent&background=0D1117&ring=8A2BE2&fire=FF4C60&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=FFFFFF&dates=AAAAAA&border=8A2BE2"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Top Languages -->
-  <img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&layout=compact&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&border_color=8A2BE2"/>
+<img width="40%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVCHAUHAN2004&layout=compact&theme=transparent&bg_color=0D1117&title_color=8A2BE2&text_color=00F7FF&border_color=8A2BE2"/>
 
 </div>
 
@@ -124,123 +122,87 @@
 
 ## 🔍 *CURRENT LEARNING TRAJECTORY*
 
-🎯 **Focus Areas**  
-✅ Deep Dive into Python3 
-✅ FULL STACK DEVELOPMENT  
-✅ DATA SCIENCE IN PYTHON  
-✅ DATA ANALYTICS IN PYTHON 
-✅ ETHICAL HACKING OR CYBER SECURITY
+🎯 **Focus Areas**
 
+✅ Advanced Python for Data Analytics
+✅ SQL & Database Management
+✅ Power BI & DAX
+✅ Tableau & Data Visualization
+✅ Statistics for Data Analysis
+✅ Machine Learning with Scikit-learn
+✅ Data Structures & Algorithms in Python
+✅ Exploratory Data Analysis & Data Preprocessing
 
---- 
-    
+---
+
+## 📂 *FEATURED PROJECTS*
+
+### 🗄️ SQL Data Warehouse & Exploratory Data Analysis
+
+* Designed and implemented a SQL-based data warehouse
+* Applied relational data modeling, joins, CTEs, views, and aggregations
+* Performed data cleaning, transformation, filtering, and EDA
+* Identified trends, patterns, and actionable business insights
+
+### 💳 UPI Transaction Data Analysis – Power BI
+
+* Analyzed UPI transaction data using Power BI
+* Applied data cleaning, transformation, data modeling, and DAX
+* Created interactive visualizations
+* Analyzed transaction trends, user behavior, and business insights
+
+### 🛡️ Insurance Data Analysis – Power BI
+
+* Developed an interactive insurance analytics dashboard
+* Applied data cleaning, transformation, data modeling, and DAX
+* Analyzed policy, customer, premium, and claim-related insights
+
+---
+
 ## 🌐 *GLOBAL CONNECTIVITY*
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/dev-chauhan-422420329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.instagram.com/devchauhan.160820/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Stories-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Connect-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:devil6591a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Write_to_me-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+  <a href="mailto:devcgate2026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
 </div>
 
 ---
 
 ## 💌 **QUICK CONTACT DIGEST**
 
-- 📧 **Professional Email**: devil6591a@gmail.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/dev-chauhan-422420329](https://www.linkedin.com/in/dev-chauhan-422420329/)  
-- 📸 **Instagram**: [instagram.com/devchauhan.160820](https://www.instagram.com/devchauhan.160820/)
-- LEETCODE
+* 📧 **Professional Email:** [devcgate2026@gmail.com](mailto:devcgate2026@gmail.com)
+* 🌐 **LinkedIn:** [linkedin.com/in/dev-chauhan-422420329](https://www.linkedin.com/in/dev-chauhan-422420329/)
+* 💻 **GitHub:** [github.com/DEVCHAUHAN2004](https://github.com/DEVCHAUHAN2004)
+* 🧩 **LeetCode:** LeetCode Profile
+* 🌐 **Portfolio:** [devchauhan.vercel.app](https://devchauhan.vercel.app/)
 
 ---
 
 ## 🌟 *PROFILE ENGAGEMENT*
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEVCHAUHAN2004&style=for-the-badge&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=DEVCHAUHAN2004\&style=for-the-badge\&color=red)
 
 ---
 
-<p align="center">🚀 Transforming Code into Extraordinary Solutions 💡</p>
+<p align="center">🚀 Turning Data into Insights | 📊 Building with Data | 💡 Solving Real-World Problems</p>
 
 ---
 
 ### 📢 *DISCLAIMER*
-⚠️ This profile is a 🧠 living, evolving showcase of my 🌱 professional journey, 🎯 skills, and 📈 personal growth.  
-🔄 All content—💼 projects, 🏆 achievements, and 💡 insights—is subject to updates and enhancements as I continue to 📚 learn, 💻 innovate, and 🚀 expand my expertise.  
-🧩 The goal is to reflect my most current 🛠️ capabilities and 🎯 aspirations while maintaining 🔍 transparency and 🤝 authenticity.  
+
+⚠️ This profile is a 🧠 living, evolving showcase of my 🌱 professional journey, 🎯 skills, projects, and 📈 continuous growth.
+
+🔄 All content—including 💼 projects, 🏆 achievements, and 💡 technical skills—is regularly updated as I continue learning, building, and expanding my expertise in Data Analytics and Data Science.
 
 🙏 Thank you for being part of the journey! 🌟
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
