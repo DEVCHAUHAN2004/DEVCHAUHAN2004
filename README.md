@@ -55,51 +55,50 @@
 | 🥉 DEVELOPING | Data Structures & Algorithms, Machine Learning |   ███████ 70%   |
 
 ---
-
 ### 📚 *Data Analytics & Python Ecosystem*
 
 <p align="center">
 
   <!-- Python & Data Science -->
 
-  <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/-NumPy-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-  <img src="https://img.shields.io/badge/-Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-111111?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Seaborn-111111?style=for-the-badge&logo=python&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/-NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Seaborn-4C9ED9?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
 
   <br/>
 
   <!-- SQL & Databases -->
 
-  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
 
   <br/>
 
   <!-- BI & Visualization -->
 
-  <img src="https://img.shields.io/badge/-Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/-Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-  <img src="https://img.shields.io/badge/-Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
 
   <br/>
 
   <!-- Web Technologies -->
 
-  <img src="https://img.shields.io/badge/-HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
 
   <br/>
 
   <!-- Tools -->
 
-  <img src="https://img.shields.io/badge/-Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
 
 </p>
 
