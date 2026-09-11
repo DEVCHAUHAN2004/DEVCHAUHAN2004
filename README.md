@@ -101,6 +101,19 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
 
 </p>
+### 📚 *Python & Data Analytics Libraries*
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/-NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Seaborn-4C9ED9?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
+
+</p>
+
 
 ---
 
