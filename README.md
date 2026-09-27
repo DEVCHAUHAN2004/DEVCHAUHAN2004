@@ -1,7 +1,9 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devchauhan.vercel.app/)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=DEV%20CHAUHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&section=header"/>
-</p>
+</p> 
+
+
  
 
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
