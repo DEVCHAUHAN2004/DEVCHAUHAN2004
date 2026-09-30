@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=DEV%20CHAUHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&section=header"/>
 </p> 
 
-
+ 
 
  
 
