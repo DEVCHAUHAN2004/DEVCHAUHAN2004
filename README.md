@@ -7,6 +7,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=DEV%20CHAUHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&section=header"/>
 </p> 
 <h1 align="center">Hey 👋 I'm Dev Chauhan</h1>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEV%20CHAUHAN&reversal=true&textBg=false&fontColor=RED"/>
 </p>
